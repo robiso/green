@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "green": {
+            "name": "Green",
+            "repo": "https://github.com/robiso/green/tree/master",
+            "zip": "https://github.com/robiso/green/archive/master.zip",
+            "summary": "Green variant (nostalgic).",
+            "version": "3.2.0",
+            "image": "https://raw.githubusercontent.com/robiso/green/master/preview.jpg"
+        }
+    }
+}
